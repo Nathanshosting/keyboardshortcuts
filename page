@@ -1,0 +1,344 @@
+<!DOCTYPE html>
+<html>
+    <head>
+         <link href="https://nathanshosting.github.io/GreenTemplate/stylesheet.css" rel="stylesheet">
+         <meta charset="utf-8">
+        <title class="category">Keyboard short-cuts</title>
+        <link rel="stylesheet" type="text/css" href="/css/main.css">
+    </head>
+    <body>
+      
+      <h1 id="header">Keyboard short-cuts</h1>
+      
+      <p id="note"> <strong>Note: You will <em>not</em> find all keyboard short-cuts here - computers and computer brands may differ - General short-cuts will proably work in must areas, double ups are just used commonly in that area - Use Ctrl+F to search/find.</strong></p>
+      
+      <p>Click on the link to skip to the short-cuts for that link.</p>
+
+     <li><a href="#general">General</a></li>
+     <li><a href="#file-explorer">File Explorer</a></li>
+     <li><a href="#microsoft">Microsoft Office</a></li>
+     <li><a href="#Chrome">Chrome</a></li>
+     <li><a href="#gmail">Gmail</a></li>
+
+     <button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>
+     
+     <script>
+     // When the user scrolls down 40px from the top of the document, show the button
+     window.onscroll = function() {scrollFunction()};
+     
+     function scrollFunction() {
+       if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+         document.getElementById("myBtn").style.display = "block";
+       } else {
+         document.getElementById("myBtn").style.display = "none";
+       }
+     }
+     
+     // When the user clicks on the button, scroll to the top of the document
+     function topFunction() {
+       document.body.scrollTop = 0;
+       document.documentElement.scrollTop = 0;
+     }
+     </script>
+    
+
+                <!--General-->
+
+
+
+     <h3 class="category" id="general">General.</h3>
+
+        <div <!--class="row"--></div>
+        <div class="column">
+          <h4 class="title">Command.</h4>
+
+                <p class="title">Ctrl+A</p>
+                <p class="title">Ctrl+C</p>
+                <p class="title">Ctrl+V</p>
+                <p class="title">Ctrl+N</p>
+                <p class="title">Alt+f4</p>
+                <p class="title">Ctrl+P</p>
+                <p class="title">Ctrl+S</p>
+                <p class="title">Ctrl+Y</p>
+                <p class="title">Ctrl+Z</p>
+
+        </div>
+
+        <div class="column">
+          <h4 class="title">What it does.</h4>
+
+                <p class="title">Select all.</p>
+                <p class="title">Copy.</p>
+                <p class="title">Paste.</p>
+                <p class="title">Open new window.</p>
+                <p class="title">Close Window.</p>
+                <p class="title">Print.</p>
+                <p class="title">Save.</p>
+                <p class="title">Redo.</p>
+                <p class="title">Undo.</p>
+        </div>
+
+        <div class="column">
+          <h4 class="title">Command.</h4>
+
+
+                <p class="title">Alt+tab</p>
+                <p class="title">Ctrl+alt+tab</p>
+                <p class="title">f5 or fn+f5</p>
+                <p class="title">Windows+button+S</p>
+                <p class="title">Right/left arrow-key</p>
+                <p class="title">Ctrl+right/left arrow-key</p>
+                <p class="title">Shift+right/left arrow-key</p>
+                <p class="title">Ctrl+shift+right/left arrow-key</p>
+        </div>  
+
+        <div class="column">
+          <h4 class="title">What it does.</h4>
+
+                <p class="title">Press tab to switch in between windows.</p>
+                <p class="title">Switch windows.</p>
+                <p class="title">Refresh/Reload.</p>
+                <p class="title">Windows search.</p>
+                <p class="title">Skip by letter.</p>
+                <p class="title">Skip by word.</p>
+                <p class="title">Select by letter.</p>
+                <p class="title">Select by word.</p>
+        </div>
+    
+
+
+
+               <!--File Explorer-->
+
+
+
+
+        <h3 class="category" id="file-explorer">File Explorer.</h3>
+
+        <div <!--class="row"--></div>
+        <div class="column">
+          <h4 class="title">Command.</h4>
+
+                <p class="title">Ctrl+A</p>
+                <p class="title">Ctrl+C</p>
+                <p class="title">Ctrl+V</p>
+                <p class="title">Ctrl+N</p>
+                <p class="title">Ctrl+P</p>
+                <p class="title">Ctrl+Y</p>
+                <p class="title">Ctrl+Z</p>
+        </div>
+
+        <div class="column">
+          <h4 class="title">What it does.</h4>
+
+                <p class="title">Select all.</p>
+                <p class="title">Copy.</p>
+                <p class="title">Paste.</p>
+                <p class="title">Open new window.</p>
+                <p class="title">Print.</p>
+                <p class="title">Redo.</p>
+                <p class="title">Undo.</p>
+        </div>
+
+        <div class="column">
+          <h4 class="title">Command.</h4>
+
+                <p class="title">Ctrl+E or F</p>
+                <p class="title">alt</p>
+                <p class="title">Delete</p>
+                <p class="title"></p>
+                <p class="title">alt+up-arrow</p>
+                <p class="title">alt+right-arrow</p>
+                <p class="title">alt+left-arrow or backspace</p>
+        </div>  
+
+
+        <div class="column">
+                <h4 class="title">What it does.</h4>
+
+                <p class="title">Search.</p> 
+                <p class="title">File Explorer will then gide you.</p>
+                <p class="title">Deletes all selected fills, pictures etc etc.</p>
+                <p class="title"></p>
+                <p class="title">Up to (the up-arrow by the there arrow keys).</p>
+                <p class="title">Forward.</p>
+                <p class="title">Back.</p>
+        </div>
+
+
+
+                              <!--Microsoft Office-->
+
+
+
+
+           <h3 class="category" id="microsoft">Microsoft Office.</h3>
+
+           <div <!--class="row"--></div>
+           <div class="column">
+             <h4 class="title">Command.</h4>
+   
+                <p class="title">Ctrl+A</p>
+                <p class="title">Ctrl+C</p>
+                <p class="title">Ctrl+V</p>
+                <p class="title">Ctrl+P</p>
+                <p class="title">Ctrl+S</p>
+                <p class="title">Ctrl+Y</p>
+                <p class="title">Ctrl+Z</p>
+   
+           </div>
+   
+           <div class="column">
+             <h4 class="title">What it does.</h4>
+
+                <p class="title">Select all.</p>
+                <p class="title">Copy.</p>
+                <p class="title">Paste.</p>
+                <p class="title">Print.</p>
+                <p class="title">Save.</p>
+                <p class="title">Redo.</p>
+                <p class="title">Undo.</p>
+           </div>
+   
+           <div class="column">
+             <h4 class="title">Command.</h4>
+   
+                <p class="title">Right/left arrow-key</p>
+                <p class="title">Ctrl+right/left arrow-key</p>
+                <p class="title">Shift+right/left arrow-key</p>
+                <p class="title">Ctrl+shift+right/left arrow-key</p>
+                <p class="title">alt</p>
+           </div>  
+   
+           <div class="column">
+             <h4 class="title">What it does.</h4>
+
+                <p class="title">Skip by letter.</p>
+                <p class="title">Skip by word.</p>
+                <p class="title">Select by letter.</p>
+                <p class="title">Select by word.</p>
+                <p class="title">Microsoft Office will then gide you.</p>
+           </div>
+
+
+           
+                              <!--Chrome-->
+
+
+
+
+            <h3 class="category" id="Chrome"> Chrome.</h3>
+
+           <div <!--class="row"--></div>
+           <div class="column">
+              <h4 class="title">Command.</h4>
+                      
+                <p class="title">Ctrl+T</p>
+                <p class="title">Ctrl+W</p>
+                <p class="title">Ctrl+alt+T</p>
+                <p class="title">Ctrl+tab</p>
+                <p class="title">Ctrl+shift+tab</p>
+                <p class="title">Ctrl+R or f5</p>
+                <p class="title">Ctrl+L</p>
+                <p class="title"></p>
+                              </div>
+                      
+           <div class="column">
+           <h4 class="title">What it does.</h4>
+                                
+                <p class="title">Open new tab.</p>
+                <p class="title">Close tab.</p>
+                <p class="title">Reopen closed tab.</p>
+                <p class="title">Go to the next tab to the right.</p>
+                <p class="title">Go to the next tab to the left.</p>
+                <p class="title">Reloed tab.</p>
+                <p class="title">Search.</p>
+                <p class="title"></p>
+           </div>
+                      
+           <div class="column">
+              <h4 class="title">Command.</h4>
+
+                <p class="title">Ctrl+D</p>
+                <p class="title">Ctrl+shift+D</p>
+                <p class="title">Ctrl+shift+B</p>
+                <p class="title">Ctrl+F</p>
+                <p class="title">Ctrl+J</p>
+                <p class="title">Ctrl+H</p>
+                <p class="title"></p>
+                <p class="title"></p>
+           </div>  
+                      
+           <div class="column">
+              <h4 class="title">What it does.</h4>
+                   
+                <p class="title">Bookmark this page.</p>
+                <p class="title">Bookmark all open pages.</p>
+                <p class="title">Show bookmark bar or not show bookmark bar if bar is open.</p>
+                <p class="title">Find.</p>
+                <p class="title">Downloads.</p>
+                <p class="title">History.</p>
+                <p class="title"></p>
+                <p class="title"></p>
+           </div>
+
+
+                               <!--Gmail-->
+
+
+            <h3 class="category" id="Gmail"> Gmail.</h3>
+
+            <div <!--class="row"--></div>
+            <div class="column">
+               <h4 class="title">Command.</h4>
+                                                    
+                <p class="title">C</p>
+                <p class="title">D</p>
+                <p class="title">S</p>
+                <p class="title">Shift+3</p>
+                <p class="title">Shift+U</p>
+                <p class="title">G+I</p>
+               
+            </div>
+                                                    
+            <div class="column">
+               <h4 class="title">What it does.</h4>
+                                                              
+                <p class="title">Opens new compose window.</p>
+                <p class="title">Opens new compose window in a new tab.</p>
+                <p class="title">Stars or enstars.</p>
+                <p class="title">hit # to move an email to the trash.</p>
+                <p class="title">To mark as unread.</p>
+                <p class="title">Go to Inbox.</p>
+                
+            </div>
+                                                    
+            <div class="column">
+               <h4 class="title">Command.</h4>
+                              
+                <p class="title">G+T</p>
+                <p class="title">G+D</p>
+                <p class="title">G+A</p>
+                <p class="title">G+S</p>
+                <p class="title">/</p>
+                <p class="title">?</p>
+            </div>  
+                                                    
+            <div class="column">
+               <h4 class="title">What it does.</h4>
+                                                 
+                <p class="title">Go to Sent messages.</p>
+                <p class="title">Go to Drafts.</p>
+                <p class="title">Go to All mail.</p>
+                <p class="title">Go to Starred conversations.</p>
+                <p class="title">Search.</p>
+                <p class="title">Open keyboard shortcut help.</p>
+                                        </div>
+
+
+
+        </tbody>
+    </table>
+    <small id="footer">Made and publish by Nathan hosted by Gitguh pages.</small>
+</body>
+</html>
